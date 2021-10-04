@@ -5,14 +5,14 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
+    title: "MATLAB Programming for Engineers and Scientists Specialization",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    moocLink: "https://www.coursera.org/specializations/matlab-programming-engineers-scientists",
   },
   {
-    title: "Cryptography",
+    title: "R Programming",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    moocLink: "https://www.udemy.com/user/veri-bilimi-okulu/",
   },
   {
     title: "Machine Learning",
@@ -20,49 +20,49 @@ const moocscards = [
     moocLink: "https://www.coursera.org/learn/machine-learning",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Data Visualization",
+    cardImage: "assets/images/education-page/gaih.jpg",
+    moocLink: "https://globalaihub.com/all-courses/",
   },
   {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Machine Learning",
+    cardImage: "assets/images/education-page/gaih.jpg",
+    moocLink: "https://globalaihub.com/all-courses/",
   },
   {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+    title: "Deep Learning",
+    cardImage: "assets/images/education-page/gaih.jpg",
+    moocLink: "https://globalaihub.com/all-courses/",
   },
   {
-    title: "Bootstrap 4",
+    title: "Machine Learning-Deep Learnig-Reinforcement Learning",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    moocLink: "https://www.udemy.com/user/datai-team/",
   },
   {
-    title: "Intro to React",
+    title: "CS50X - Introduction to Computer Science",
     cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
+    moocLink: "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x",
   },
   {
-    title: "Intro to React Native",
+    title: "Robotics Specialization",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+    moocLink: "https://www.coursera.org/specializations/robotics?",
   },
   {
-    title: "NodeJS, Express and MongoDB",
+    title: "3D Printing and Additive Manufacturing Specialization",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
+    moocLink: "https://www.coursera.org/specializations/3d-printing-additive-manufacturing",
   },
   {
-    title: "XML-AJAX",
+    title: "Python-Data Science-Data Visualization-Statistics",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+    moocLink: "https://www.udemy.com/user/datai-team/",
   },
   {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+    title: "Python Programming",
+    cardImage: "assets/images/education-page/gaih.jpg",
+    moocLink: "https://globalaihub.com/all-courses/",
   },
 ];
 

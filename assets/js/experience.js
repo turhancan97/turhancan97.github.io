@@ -6,25 +6,39 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Erasmus+ Internship",
+    cardImage: "assets/images/experience-page/silezya.png",
+    place: "Silesian University of Technology",
+    time: "(Nov, 2020 - Feb, 2021)",
+    desp: "<li>The internship lasted 13 weeks and each week the trainee had specific tasks in the project.</li> <li>The project subject of the intern is Methods Of Clustering Single-Cell RNA Sequencing Data.</li> <li>The trainee has used R programming language to analyze single-cell RNA sequencing data.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Mandatory Internship and Graduation Project",
+    cardImage: "assets/images/experience-page/tescom.jpg",
+    place: "Tescom UPS",
+    time: "(Aug 2019 - Jul, 2020)",
+    desp: "<li>My graduation project (High Power Efficiency Design Approach of an LLC Resonant Converter for UPS Battery Charger Application and Battery Charge-Discharge Regression Model) is supported by the Scientific and Technical Research Council of Turkey (TUBITAK) under 2209B-Bachelor Final Thesis Focused on Industry Program. Industrial support for my work was provided by Tescom Elektronik A.Ş.</li><li>Besides, I was a production intern at Tescom UPS. I have worked on different sections of the manufacturing such as PCB Typesetting, Card Test, Cabling and Device Test.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Working Student",
+    cardImage: "assets/images/experience-page/asm.png",
+    place: "Deutz Service Group ASM Ex-Proof",
+    time: "(Dec, 2019 - Feb, 2020)",
+    desp:"<li>Worked on the project for industrial motor, automotive, machinery Ex-Proof products.</li>",
+  },
+  {
+    title: "Mandatory Internship",
+    cardImage: "assets/images/experience-page/elpro.png",
+    place: "Elpro Energy",
+    time: "(Aug, 2019 - Seb, 2020)",
+    desp:"<li>Creating bill of quantity of projects, making market and price research for materials.</li><li>Structure of Electrical Installation Design.</li><li>AutoCAD.</li>",
+  },
+  {
+    title: "Optional Internship",
+    cardImage: "assets/images/experience-page/maselmak.jpg",
+    place: "Maselmak Engineering",
+    time: "(Jul, 2017 - Aug, 2017)",
+    desp:"<li>Electrical Panel Design (See Electrical)</li><li>Tia Portal</li><li>PLC</li>",
   },
 ];
 
@@ -64,28 +78,34 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "IEEE",
+    cardImage: "assets/images/experience-page/ieee.jpeg",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "IEEE Izmir Katip Celebi University Student Branch Treasurer. The treasurer is mainly responsible for control and reporting of the Student Branch’s finances.",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    title: "IEEE PES",
+    cardImage: "assets/images/experience-page/pes.jpg",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "IEEE Izmir Katip Celebi University Power and Energy Society Vice-Chairman. Vice-Chair’s main role is to support the Chair.",
   },
   {
-    title: "PClub Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/3.jpg",
+    title: "IOT Turkey",
+    cardImage: "assets/images/experience-page/iot.png",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Editor for ioturkiye.com",
   },
   {
-    title: "Hakin-Codes",
-    cardImage: "assets/images/experience-page/4.jpg",
+    title: "Global AI Hub",
+    cardImage: "assets/images/experience-page/gaih.jpg",
     description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "Core Member",
+  },
+  {
+    title: "Data Science Earth",
+    cardImage: "assets/images/experience-page/data.jpg",
+    description:
+      "Content Producer for www.datasciencearth.com",
   },
 ];
 
@@ -108,8 +128,8 @@ const showCards = () => {
 };
 document.addEventListener("DOMContentLoaded", showCards);
 
-
-// Hackathon Section
+/* 
+// Hackathon Section - Bu kısma bir şey bul
 
 
 const hackathonsection = document.querySelector(".hackathon-section");
@@ -207,7 +227,7 @@ const mentor = [
   
 
 ];
-
+*/
 const showCards3 = () => {
   let output = "";
   mentor.forEach(
