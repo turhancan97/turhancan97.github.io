@@ -131,7 +131,7 @@ let footer = $(`
           <div class="form-style-6">
              <div class="form-header">
                 <h6 class="display">Get in Touch With Me</h6>
-                <p class="tag" >turhancankargin@gmail.com</p>
+                <p class="tag" >turhancan.kargin@gmail.com</p>
           </div>
         </div>
     </div>
