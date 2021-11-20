@@ -30,7 +30,7 @@ const exp = [
     title: "Mandatory Internship",
     cardImage: "assets/images/experience-page/elpro.png",
     place: "Elpro Energy",
-    time: "(Aug, 2019 - Seb, 2020)",
+    time: "(Aug, 2019 - Seb, 2010)",
     desp:"<li>Creating bill of quantity of projects, making market and price research for materials.</li><li>Structure of Electrical Installation Design.</li><li>AutoCAD.</li>",
   },
   {
