@@ -24,16 +24,23 @@ const projects = [
   {
     title: "Basic Prediction Web App",
     cardImage: "assets/images/project-page/app.PNG",
-    description: "Flappy bird game built using React.js",
+    description: "This repo aims to make you get started with putting your trained machine learning models into production using Flask API.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://github.com/turhancan97/Basic-Prediction-Web-App",
     Githublink: "https://github.com/turhancan97/Basic-Prediction-Web-App",
   },
   {
+    title: "Basic Recommendation Web App",
+    cardImage: "assets/images/project-page/recom.PNG",
+    description: "In this project, a classification model using Support Vector Classification was built. Cleaned and balanced cuisine dataset was used for the classification. In addition, we built a small web app to use a saved model, leveraging Onnx's web runtime.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/Basic-Recommendation-Web-App",
+    Githublink: "https://github.com/turhancan97/Basic-Recommendation-Web-App",
+  },
+  {
     title: "Artificial Neural Network based Mobile Robot Control",
     cardImage: "assets/images/project-page/temp.PNG",
-    description:
-      "In this project, our aim is to use neural network to control mobile robot. The robot will follow the light source. The robot has three sensors and each sensor has a range which can detect the light source.",
+    description: "In this project, our aim is to use neural network to control mobile robot. The robot will follow the light source. The robot has three sensors and each sensor has a range which can detect the light source.",
     tagimg: "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
     Previewlink: "https://github.com/turhancan97/Artificial-Neural-Network-based-Mobile-Robot-Control",
     Githublink: "https://github.com/turhancan97/Artificial-Neural-Network-based-Mobile-Robot-Control",
