@@ -94,15 +94,16 @@ const projects = [
     Previewlink: "https://drive.google.com/file/d/1d6WSmG3cvC-XCFtnASq8cETYd1wAXTjc/view?usp=sharing",
     Githublink: "https://drive.google.com/file/d/1d6WSmG3cvC-XCFtnASq8cETYd1wAXTjc/view?usp=sharing",
   },
-  /* 
+  
   {
-    title: "Movie Recommendation System",
-    cardImage: "assets/images/project-page/movie-recommendation.jpeg",
-    description: "Built using Tensorflow.",
+    title: "Number Guessing Game with Python",
+    cardImage: "assets/images/project-page/number_interface.PNG",
+    description: "This is a simple number guessing game using python and tkinter. This is a small project for beginners to understand functions and basic GUI design using tkinter.",
     tagimg: "https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://github.com/turhancan97/Guess-The-Number",
+    Githublink: "https://github.com/turhancan97/Guess-The-Number",
   },
+  /* 
   {
     title: "Music Recommendation Engine",
     cardImage: "assets/images/project-page/music.jpg",
