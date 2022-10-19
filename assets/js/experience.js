@@ -6,6 +6,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Jr. Data Scientist",
+    cardImage: "assets/images/experience-page/PSNC.jpg",
+    place: "Poznan Supercomputing and Networking Center | PSNC |",
+    time: "(Mar, 2022 - Now)",
+    desp: "<li>Detecting anomalies in the energy consumption based time series data.</li> <li>Forecasting the future values in time series data. </li> <li>Developing a tool for the analysis of the energy consumption of buildings. </li>  <li>Being part of the RENergetic project (www.renergetic.eu). </li>"
+  },
+  {
     title: "Erasmus+ Internship",
     cardImage: "assets/images/experience-page/silezya.png",
     place: "Silesian University of Technology",
@@ -96,10 +103,16 @@ const volunteershipcards = [
       "Editor for ioturkiye.com",
   },
   {
+    title: "CybAiR Science Club",
+    cardImage: "assets/images/experience-page/cybair.png",
+    description:
+      "It is a scientific student club at PUT Poznan in the field of Robotics, Automation, Autonomous Vehicles. I am a member here and we are working on different projects.",
+  },
+  {
     title: "Global AI Hub",
     cardImage: "assets/images/experience-page/gaih.jpg",
     description:
-      "Core Member",
+      "Global AI Hub is a non-profit organization that aims to educate and train people in the field of artificial intelligence. I am a Global Core Member and Mentor in this organization.",
   },
   {
     title: "Data Science Earth",

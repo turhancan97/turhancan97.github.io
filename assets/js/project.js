@@ -6,6 +6,30 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "A Reinforcement Learning Approach for Continuum Robot Control",
+    cardImage: "assets/images/project-page/continuum_rl.png",
+    description: "Simulation based Soft Continuum Robot Control via Reinforcement Learning Algorithm",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://www.researchgate.net/project/The-Control-of-Soft-Continuum-Robot-by-Reinforcement-Learning-Algorithm",
+    Githublink: "https://github.com/turhancan97/RL-based-Control-of-a-Soft-Continuum-Robot",
+  },
+  {
+    title: "Convolutional Neural Network for Object Tracking",
+    cardImage: "assets/images/project-page/object_dete.png",
+    description: "In this project, you will find couple of projects that can be helpful to learn Image Processing, Computer Vision, Deep Neural Network, Convolutional Neural Network topics and OpenCV, Tensorflow, Keras, YOLO Frameworks.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/Convolutional-Neural-Network-for-Object-Tracking",
+    Githublink: "https://github.com/turhancan97/Convolutional-Neural-Network-for-Object-Tracking",
+  },
+  {
+    title: "Control of Two-wheeled Mobile Robots",
+    cardImage: "assets/images/project-page/mobile_robot_dif.png",
+    description: "In this project, the aim is to control two-wheeled mobile robot in ROS and MATLAB",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/Control-of-Two-wheeled-Mobile-Robots",
+    Githublink: "https://github.com/turhancan97/Control-of-Two-wheeled-Mobile-Robots",
+  },
+  {
     title: "LLC Resonant Converter for UPS Battery",
     cardImage: "assets/images/project-page/Simulation_Image.PNG",
     description: "High Power Efficiency Design Approach of a LLC Resonant Converter for UPS Battery Charger Application and Battery Charge - Discharge Regression Model",
@@ -28,6 +52,14 @@ const projects = [
     tagimg: "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
     Previewlink: "https://www.youtube.com/watch?v=Xq5NMQ2SGNM",
     Githublink: "https://github.com/turhancan97/Navigation-of-a-Unicycle-Like-Vehicle",
+  },
+  {
+    title: "2D and 3D Constant Curvature Kinematics",
+    cardImage: "assets/images/project-page/task_space.png",
+    description: "Main purpose of this repository is to show 2D and 3D Kinematic Modeling of Constant Curvature Continuum Robots.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/2D-and-3D-Constant-Curvature-Kinematics",
+    Githublink: "https://github.com/turhancan97/2D-and-3D-Constant-Curvature-Kinematics",
   },
   {
     title: "Basic Prediction Web App",
