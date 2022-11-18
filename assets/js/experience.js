@@ -10,7 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/PSNC.jpg",
     place: "Poznan Supercomputing and Networking Center | PSNC |",
     time: "(Mar, 2022 - Now)",
-    desp: "<li>Detecting anomalies in the energy consumption based time series data.</li> <li>Forecasting the future values in time series data. </li> <li>Developing a tool for the analysis of the energy consumption of buildings. </li>  <li>Being part of the RENergetic project (www.renergetic.eu). </li>"
+    desp: "<li>Detecting anomalies in the energy consumption based time series data.</li> <li>Forecasting the future values in time series data. </li> <li>Developing a tool for the analysis of the energy consumption of buildings. </li>  <li>Being part of the RENergetic project (www.renergetic.eu). </li> <li> Simulation and analysis of various renewable energy system setups. </li> "
   },
   {
     title: "Erasmus+ Internship",
