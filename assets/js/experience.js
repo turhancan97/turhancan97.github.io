@@ -120,6 +120,12 @@ const volunteershipcards = [
     description:
       "Content Producer for www.datasciencearth.com",
   },
+  {
+    title: "GHOST (Group of Horribly Optimistic STatisticians)",
+    cardImage: "assets/images/experience-page/GHOST.jpg",
+    description:
+      "GHOST is a group of students interested in statistics, machine learning and data analysis. Our goal is to thoroughly learn machine learning methods and algorithms.",
+  },
 ];
 
 const showCards = () => {
