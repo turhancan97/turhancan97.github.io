@@ -122,9 +122,9 @@ const volunteershipcards = [
   },
   {
     title: "GHOST (Group of Horribly Optimistic STatisticians)",
-    cardImage: "assets/images/experience-page/GHOST.jpg",
+    cardImage: "assets/images/experience-page/GHOST.png",
     description:
-      "GHOST is a group of students interested in statistics, machine learning and data analysis. Our goal is to thoroughly learn machine learning methods and algorithms.",
+      "Interested in statistics, machine learning and data analysis. Its goal is to learn ML methods and algorithms.",
   },
 ];
 
