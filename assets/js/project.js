@@ -30,6 +30,22 @@ const projects = [
     Githublink: "https://github.com/turhancan97/Control-of-Two-wheeled-Mobile-Robots",
   },
   {
+    title: "Simulation of a Dynamic Flying Object",
+    cardImage: "assets/images/project-page/flying_object_3d.png",
+    description: "In this project, the aim is to simulate the control of flying robots in a dynamic environments.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/Flying_Robot_Control",
+    Githublink: "https://github.com/turhancan97/Flying_Robot_Control",
+  },
+  {
+    title: "Simulation of Artificial Intelligence Applications for Robotics",
+    cardImage: "assets/images/project-page/ai_robotics.jpeg",
+    description: "In this project, visualization and simulation of Udacity course (AI for Robotics) are available",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/Artificial-Intelligence-for-Robotics",
+    Githublink: "https://github.com/turhancan97/Artificial-Intelligence-for-Robotics",
+  },
+  {
     title: "LLC Resonant Converter for UPS Battery",
     cardImage: "assets/images/project-page/Simulation_Image.PNG",
     description: "High Power Efficiency Design Approach of a LLC Resonant Converter for UPS Battery Charger Application and Battery Charge - Discharge Regression Model",
