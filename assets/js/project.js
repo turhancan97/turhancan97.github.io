@@ -39,7 +39,7 @@ const projects = [
   },
   {
     title: "Simulation of Artificial Intelligence Applications for Robotics",
-    cardImage: "assets/images/project-page/ai_robotics.jpeg",
+    cardImage: "assets/images/project-page/ai_robotics.png",
     description: "In this project, visualization and simulation of Udacity course (AI for Robotics) are available",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://github.com/turhancan97/Artificial-Intelligence-for-Robotics",
