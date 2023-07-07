@@ -14,6 +14,22 @@ const projects = [
     Githublink: "https://github.com/turhancan97/RL-based-Control-of-a-Soft-Continuum-Robot",
   },
   {
+    title: "BIOBLU Project",
+    cardImage: "assets/images/project-page/bioblu-robot.png",
+    description: "Project from University of Catania, Italy.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://turhancankargin.com/bioblu-project/",
+    Githublink: "https://huggingface.co/spaces/turhancan97/yolov8-orientation",
+  },
+  {
+    title: "RENergetic Project",
+    cardImage: "assets/images/project-page/Renergetic.png",
+    description: "EU Project which I am involved in as PSNC worker.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://www.renergetic.eu/",
+    Githublink: "https://www.renergetic.eu/",
+  },
+  {
     title: "Convolutional Neural Network for Object Tracking",
     cardImage: "assets/images/project-page/object_dete.png",
     description: "In this project, you will find couple of projects that can be helpful to learn Image Processing, Computer Vision, Deep Neural Network, Convolutional Neural Network topics and OpenCV, Tensorflow, Keras, YOLO Frameworks.",
