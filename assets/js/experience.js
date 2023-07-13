@@ -13,7 +13,7 @@ const exp = [
     desp: "<li>Working Under ICT Energy Efficient Technologies Department.</li> <li>My role as a data scientist in this company is to apply my knowledge and skills in data science, machine learning, statistical modeling, and big data analytics to support the research, development and innovation projects of the company.</li><li>Anomaly Detection in the Energy Consumption based Time Series Data. </li> <li>Time Series Analysis and Forecasting. </li>  <li>Being part of the RENergetic project (www.renergetic.eu). </li> <li> Simulation and Analysis of Various Renewable Energy System Setups. </li> "
   },
   {
-    title: "Erasmus+ Internship",
+    title: "Research Internship",
     cardImage: "assets/images/experience-page/UniCT.png",
     place: "University of Catania",
     time: "(Mar, 2023 - Aug, 2023)",
