@@ -30,6 +30,14 @@ const projects = [
     Githublink: "https://www.renergetic.eu/",
   },
   {
+    title: "Intelligent Face Recognition Attendance System",
+    cardImage: "assets/images/project-page/attendance.png",
+    description: "This project is a comprehensive face recognition-based attendance system for universities. It leverages OpenCV for face detection and recognition, Firebase for data storage, and Flask for the web interface. The system allows for student registration, face capture, and attendance tracking, providing a modern solution for attendance management.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/Intelligent-Face-Recognition-Attendance-System",
+    Githublink: "https://github.com/turhancan97/Intelligent-Face-Recognition-Attendance-System",
+  },
+  {
     title: "Convolutional Neural Network for Object Tracking",
     cardImage: "assets/images/project-page/object_dete.png",
     description: "In this project, you will find couple of projects that can be helpful to learn Image Processing, Computer Vision, Deep Neural Network, Convolutional Neural Network topics and OpenCV, Tensorflow, Keras, YOLO Frameworks.",
