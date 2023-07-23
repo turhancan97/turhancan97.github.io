@@ -22,7 +22,7 @@ const projects = [
     Githublink: "https://huggingface.co/spaces/turhancan97/yolov8-orientation",
   },
   {
-    title: "RENergetic Project (EU Project))",
+    title: "RENergetic Project (EU Project)",
     cardImage: "assets/images/project-page/Renergetic.png",
     description: "EU Project which I am involved in as PSNC worker.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
