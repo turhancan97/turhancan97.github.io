@@ -1,8 +1,3 @@
-/* Alttaki kodu ilerde navbarSupportedContent altına koy
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
-*/
-
 "use strict";
 // Sweet Alert CDN through JS
 let script = document.createElement("script");
@@ -31,6 +26,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="https://turhancankargin.com/" target="_blank">Blogs</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="https://unsplash.com/@tkargin" target="_blank">Photos</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="https://www.pexels.com/tr-tr/@turhan-can-kargin-476204943/" target="_blank">AI Images</a></li>
