@@ -38,6 +38,14 @@ const projects = [
     Githublink: "https://github.com/turhancan97/Intelligent-Face-Recognition-Attendance-System",
   },
   {
+    title: "Number and Letter Recognition",
+    cardImage: "assets/images/project-page/number_recognition.png",
+    description: "This project is a simple number and letter recognition program with UI. It uses MNIST and Alphabet dataset to train.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/Number-and-Letter-Recognition",
+    Githublink: "https://github.com/turhancan97/Number-and-Letter-Recognition",
+  },
+  {
     title: "Convolutional Neural Network for Object Tracking",
     cardImage: "assets/images/project-page/object_dete.png",
     description: "In this project, you will find couple of projects that can be helpful to learn Image Processing, Computer Vision, Deep Neural Network, Convolutional Neural Network topics and OpenCV, Tensorflow, Keras, YOLO Frameworks.",
