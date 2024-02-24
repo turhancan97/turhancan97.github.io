@@ -4,6 +4,19 @@ const researchTable = document.querySelector(".main");
 
 const research = [
     {
+        title : "DDPG-based reinforcement learning for controlling a spatial three-section continuum robot",
+        authors : "Selman Djeffal, Mohamed Razi Morakchi, Abdelhamid Ghoul, Turhan Can Kargin",
+        conferences : "Franklin Open Journal, Elsevier",
+        researchYr : 2024,
+        citebox : "popup1",
+        image : "assets/images/research-page/threedimension.png",
+        citation: {
+            vancouver: "Djeffal, S., Morakchi, M. R., Ghoul, A., & Kargin, T. C. (2024). DDPG-based reinforcement learning for controlling a spatial three-section continuum robot. Franklin Open, 100077. doi:10.1016/j.fraope.2024.100077"
+        },
+        abstract: "This paper proposes an approach to controlling a spatial three-section continuum robot using reinforcement learning (RL). Rather than relying on traditional methods that use bending and orientation angles, this study utilizes the curvature of each section to achieve the desired position. The training process involves identifying a 3D workspace for the robot and utilizing a deep neural network to optimize its control policies. The results demonstrate that the robot’s end effector can follow a given trajectory with a maximum error of 1 [1/mm] based on the generated curvature for each section. The Deep Deterministic Policy Gradients (DDPG) algorithm is employed to optimize the robot’s control policies. Additionally, the developed DDPG algorithm is compared to the Deep Q-Network (DQN) from a precision standpoint, particularly during the tracking of a circular trajectory. This comparison highlights the superior accuracy of DDPG in managing the intricate movements required for continuum robotics, making it a promising tool for applications where precision is crucial, such as in medical and surgical robotics.",
+        absbox: "absPopup1"
+    },
+    {
         title : "A Reinforcement Learning Approach for Continuum Robot Control",
         authors : "Turhan Can Kargin and Jakub Kołota",
         conferences : "Journal of Intelligent and Robotic Systems, Springer",
