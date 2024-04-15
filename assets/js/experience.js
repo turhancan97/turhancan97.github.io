@@ -12,13 +12,13 @@ const exp = [
     time: "(Mar, 2022 - Now)",
     desp: "<li>Working Under ICT Energy Efficient Technologies Department.</li> <li>My role as a data scientist in this company is to apply my knowledge and skills in data science, machine learning, statistical modeling, and big data analytics to support the research, development and innovation projects of the company.</li><li>Anomaly Detection in the Energy Consumption based Time Series Data. </li> <li>Time Series Analysis and Forecasting. </li>  <li>Being part of the RENergetic project (www.renergetic.eu). </li> <li> Simulation and Analysis of Various Renewable Energy System Setups. </li> "
   },
-  {
-    title: "Research Internship",
-    cardImage: "assets/images/experience-page/UniCT.png",
-    place: "University of Catania",
-    time: "(Mar, 2023 - Aug, 2023)",
-    desp: "<li> Wroking under the DIEEI in Robotic systems group (ROSys) and being part of the BIOBLU project. (https://biobluproject.com/) </li> <li>His main task is to be involved improving the algorithm of Object Picking with AI methods.</li> <li>Participated in the design and implementation of robotic control strategies based on AI, leveraging knowledge of ROS, control systems, and computer vision methods. </li> <li>Developed and tested algorithms in the Gazebo simulation environment. </li> <li> Experience with various robotics environments (mobile robots and robotic manipulators).</li> "
-  },
+  // {
+  //   title: "Research Internship",
+  //   cardImage: "assets/images/experience-page/UniCT.png",
+  //   place: "University of Catania",
+  //   time: "(Mar, 2023 - Aug, 2023)",
+  //   desp: "<li> Wroking under the DIEEI in Robotic systems group (ROSys) and being part of the BIOBLU project. (https://biobluproject.com/) </li> <li>His main task is to be involved improving the algorithm of Object Picking with AI methods.</li> <li>Participated in the design and implementation of robotic control strategies based on AI, leveraging knowledge of ROS, control systems, and computer vision methods. </li> <li>Developed and tested algorithms in the Gazebo simulation environment. </li> <li> Experience with various robotics environments (mobile robots and robotic manipulators).</li> "
+  // },
   {
     title: "Erasmus+ Internship",
     cardImage: "assets/images/experience-page/silezya.png",
