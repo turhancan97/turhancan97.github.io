@@ -30,6 +30,14 @@ const projects = [
     Githublink: "https://www.renergetic.eu/",
   },
   {
+    title: "Monitoring Mobile Robot's Location with Particle Filter and Vision Transformer",
+    cardImage: "assets/images/project-page/particle-filter.png",
+    description: "This project simulates a mobile robot's localization using a particle filter algorithm and evaluates its state (localized or delocalized) using a Vision Transformer (ViT) model.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/mobile-robot-particle-filter-with-transformer",
+    Githublink: "https://github.com/turhancan97/mobile-robot-particle-filter-with-transformer",
+  },
+  {
     title: "Intelligent Face Recognition Attendance System",
     cardImage: "assets/images/project-page/attendance.png",
     description: "This project is a comprehensive face recognition-based attendance system for universities. It leverages OpenCV for face detection and recognition, Firebase for data storage, and Flask for the web interface. The system allows for student registration, face capture, and attendance tracking, providing a modern solution for attendance management.",
