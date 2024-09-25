@@ -30,6 +30,14 @@ const projects = [
     Githublink: "https://www.renergetic.eu/",
   },
   {
+    title: "Enhancing Representation Learning in MAE by Focusing on Low-Variance Components",
+    cardImage: "assets/images/project-page/mae-project.png",
+    description: "This project carry out the implementation of a Masked Autoencoder for Image Reconstruction (MAE) using the several different datasets. The difference of this implementation from the original one is that this project verifies the idea which is obtained from the paper Learning by Reconstruction Produces Uninformative Features For Perception by Randall Balestriero and Yann LeCun.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/Learning-by-Reconstruction-with-MAE",
+    Githublink: "https://github.com/turhancan97/Learning-by-Reconstruction-with-MAE",
+  },
+  {
     title: "Monitoring Mobile Robot's Location with Particle Filter and Vision Transformer",
     cardImage: "assets/images/project-page/particle-filter.png",
     description: "This project simulates a mobile robot's localization using a particle filter algorithm and evaluates its state (localized or delocalized) using a Vision Transformer (ViT) model.",
