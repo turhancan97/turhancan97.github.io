@@ -30,7 +30,7 @@ const projects = [
     Githublink: "https://wiki.renergetic.eu/",
   },
   {
-    title: "Enhancing Representation Learning in MAE by Focusing on Low-Variance Components",
+    title: "Enhancing Representations of Masked Autoencoder",
     cardImage: "assets/images/project-page/mae-project.png",
     description: "This project carry out the implementation of a Masked Autoencoder for Image Reconstruction (MAE) using the several different datasets. The difference of this implementation from the original one is that this project verifies the idea which is obtained from the paper Learning by Reconstruction Produces Uninformative Features For Perception by Randall Balestriero and Yann LeCun.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",

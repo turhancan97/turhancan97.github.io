@@ -861,3 +861,22 @@ SVG ANIMATIONS PROJECT PAGE
     animation-duration: 3.3s;
     transform-origin: 785.132px 295.833px
 }
+
+@media (max-width: 767px) {
+  .card .menu-content {
+    position: static !important;
+    float: none !important;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem 0 0 0;
+    background: none;
+  }
+  .card .menu-content li {
+    display: inline-block;
+    margin: 0 8px;
+  }
+  .project-box {
+    margin-top: 1rem !important;
+  }
+}
