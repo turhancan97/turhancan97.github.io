@@ -6,6 +6,14 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "SpaRRTa: A Synthetic Benchmark for Evaluating Spatial Intelligence in Visual Foundation Models",
+    cardImage: "assets/images/project-page/SpaRRTa.png",
+    description: "A Synthetic Benchmark for Evaluating Spatial Intelligence in Visual Foundation Models",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://sparrta.gmum.net/",
+    Githublink: "https://github.com/gmum/SpaRRTa",
+  },
+  {
     title: "A Reinforcement Learning Approach for Continuum Robot Control",
     cardImage: "assets/images/project-page/continuum_rl.png",
     description: "Simulation based Soft Continuum Robot Control via Reinforcement Learning Algorithm",

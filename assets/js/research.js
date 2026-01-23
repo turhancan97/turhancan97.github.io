@@ -4,6 +4,19 @@ const researchTable = document.querySelector(".main");
 
 const research = [
     {
+        title : "SpaRRTa: A Synthetic Benchmark for Evaluating Spatial Intelligence in Visual Foundation Models",
+        authors : "Turhan Can Kargin, Wojciech Jasiński, Adam Pardyl, Bartosz Zieliński, Marcin Przewięźlikowski",
+        conferences : "ArXiv Preprint",
+        researchYr : 2026,
+        citebox : "popup1",
+        image : "assets/images/research-page/SpaRRTa.png",
+        citation: {
+            vancouver: "Kargin, T.C., Jasiński, W., Pardyl, A., Zieliński, B., & Przewięźlikowski, M. (2026). SpaRRTa: A Synthetic Benchmark for Evaluating Spatial Intelligence in Visual Foundation Models. ArXiv. https://doi.org/10.48550/arXiv.2601.11729"
+        },
+        abstract: "Visual Foundation Models (VFMs), such as DINO and CLIP, excel in semantic understanding of images but exhibit limited spatial reasoning capabilities, which limits their applicability to embodied systems. As a result, recent work incorporates some 3D tasks (such as depth estimation) into VFM training. However, VFM performance remains inconsistent across other spatial tasks, raising the question of whether these models truly have spatial awareness or overfit to specific 3D objectives. To address this question, we introduce the Spatial Relation Recognition Task (SpaRRTa) benchmark, which evaluates the ability of VFMs to identify relative positions of objects in the image. Unlike traditional 3D objectives that focus on precise metric prediction (e.g., surface normal estimation), SpaRRTa probes a fundamental capability underpinning more advanced forms of human-like spatial understanding. SpaRRTa generates an arbitrary number of photorealistic images with diverse scenes and fully controllable object arrangements, along with freely accessible spatial annotations. Evaluating a range of state-of-the-art VFMs, we reveal significant disparities between their spatial reasoning abilities. Through our analysis, we provide insights into the mechanisms that support or hinder spatial awareness in modern VFMs. We hope that SpaRRTa will serve as a useful tool for guiding the development of future spatially aware visual models.",
+        absbox: "absPopup1"
+    },
+    {
         title : "DDPG-based reinforcement learning for controlling a spatial three-section continuum robot",
         authors : "Selman Djeffal, Mohamed Razi Morakchi, Abdelhamid Ghoul, Turhan Can Kargin",
         conferences : "Franklin Open Journal, Elsevier",
