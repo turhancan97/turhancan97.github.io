@@ -6,7 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "SpaRRTa: A Synthetic Benchmark for Evaluating Spatial Intelligence in Visual Foundation Models",
+    title: "SpaRRTa: Spatial Intelligence Benchmark",
     cardImage: "assets/images/project-page/SpaRRTa.png",
     description: "A Synthetic Benchmark for Evaluating Spatial Intelligence in Visual Foundation Models",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
