@@ -54,6 +54,22 @@ const projects = [
     Githublink: "https://github.com/turhancan97/paper-ready-architecture",
   },
   {
+    title: "Deep Q-Learning for Pong",
+    cardImage: "assets/images/project-page/pong.png",
+    description: "Deep Q-Learning (DQL) agent that learns to play Pong directly from pixels.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/mini-pong-game-with-RL",
+    Githublink: "https://github.com/turhancan97/mini-pong-game-with-RL",
+  },
+  {
+    title: "Mini RL Game — DQN learns to Eat or Avoid",
+    cardImage: "assets/images/project-page/mini-game.png",
+    description: "Pygame-based mini-game with a Deep Q-Learning (DQN) agent that learns two scenarios.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/mini-game-with-RL",
+    Githublink: "https://github.com/turhancan97/mini-game-with-RL",
+  },
+  {
     title: "Monitoring Mobile Robot's Location with Particle Filter and Vision Transformer",
     cardImage: "assets/images/project-page/particle-filter.png",
     description: "This project simulates a mobile robot's localization using a particle filter algorithm and evaluates its state (localized or delocalized) using a Vision Transformer (ViT) model.",
