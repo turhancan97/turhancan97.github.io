@@ -6,7 +6,7 @@ const research = [
     {
         title : "SpaRRTa: A Synthetic Benchmark for Evaluating Spatial Intelligence in Visual Foundation Models",
         authors : "Turhan Can Kargin, Wojciech Jasiński, Adam Pardyl, Bartosz Zieliński, Marcin Przewięźlikowski",
-        conferences : "ArXiv Preprint",
+        conferences : "ICLR 2026 Workshop World Models",
         researchYr : 2026,
         citebox : "popup1",
         image : "assets/images/research-page/SpaRRTa.png",
