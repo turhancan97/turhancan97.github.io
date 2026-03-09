@@ -70,6 +70,14 @@ const projects = [
     Githublink: "https://github.com/turhancan97/mini-game-with-RL",
   },
   {
+    title: "🧠 Interactive Autoencoder Framework",
+    cardImage: "assets/images/project-page/autoencoder.png",
+    description: "A modular, interactive framework for exploring different autoencoder architectures with real-time latent space visualization. This project allows you to train and interact with various autoencoder models (MLP, CNN, VAE) through an intuitive click-and-drag interface.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/simple-autoencoder-demo",
+    Githublink: "https://github.com/turhancan97/simple-autoencoder-demo",
+  },
+  {
     title: "Monitoring Mobile Robot's Location with Particle Filter and Vision Transformer",
     cardImage: "assets/images/project-page/particle-filter.png",
     description: "This project simulates a mobile robot's localization using a particle filter algorithm and evaluates its state (localized or delocalized) using a Vision Transformer (ViT) model.",
