@@ -54,6 +54,14 @@ const projects = [
     Githublink: "https://github.com/turhancan97/Learning-by-Reconstruction-with-MAE",
   },
   {
+  title: "RENergetic Project (EU Project)",
+  cardImage: "assets/images/project-page/Renergetic.png",
+  description: "EU Project which I am involved in as PSNC worker.",
+  tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+  Previewlink: "https://www.renergetic.eu/",
+  Githublink: "https://wiki.renergetic.eu/",
+},
+  {
     title: "Paper Ready Machine Learning Architecture",
     cardImage: "assets/images/project-page/paper-ready-ml-architecture.png",
     description: "A simple Python GUI tool to create paper-ready visualizations of neural network architectures (MLP & CNN) with customizable colors, pruning, and export options.",
