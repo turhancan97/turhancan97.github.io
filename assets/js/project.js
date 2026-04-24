@@ -30,6 +30,14 @@ const projects = [
     Githublink: "https://github.com/turhancan97/RL-based-Obstacle-Avoidance-Soft-Continuum-Robot",
   },
   {
+    title: "Benchmark toolkit for tendon-driven continuum robot (TDCR)",
+    cardImage: "assets/images/project-page/tdcr_logo.png",
+    description: "Python benchmark toolkit for tendon-driven continuum robot (TDCR) modeling, featuring constant-curvature, piecewise, Cosserat, and pseudo-rigid-body models with trajectory animation and interactive 3D visualization.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/turhancan97/tdcr_control",
+    Githublink: "https://github.com/turhancan97/tdcr_control",
+  },
+  {
     title: "BIOBLU Project (Internship Project)",
     cardImage: "assets/images/project-page/bioblu-robot.png",
     description: "Project from University of Catania, Italy.",
